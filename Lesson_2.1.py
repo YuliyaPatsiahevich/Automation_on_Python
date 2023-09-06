@@ -1,0 +1,5 @@
+float_data=float(input('Введите год и месяц вашего рождения в числах:'))
+print(float_data)
+float_now=float(2023.08)
+int_age=int(float_now-float_data)
+print(int_age)
